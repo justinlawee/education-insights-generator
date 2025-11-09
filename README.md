@@ -120,6 +120,8 @@ This function:
 3. Passes it through a prompt template.
 4. Returns generated insights + AI-evaluated scores.
 
+---
+
 ## 📊 Example Outputs
 
 Example	Description
@@ -144,11 +146,15 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 - `notebooks/Judge_LLM.ipynb`
 - `docs/Insights Matrix.xlsx - Sheet1.pdf`
 
+---
+
 ## 🔒 Privacy Notes
 
 - All datasets in this repo are synthetic and de-identified.
 - Real assessment data was stored in BigQuery and is not included here.
 - innovare_n8n.json has been sanitized — API keys and internal endpoints removed.
+
+---
 
 📎 Additional Materials
 
@@ -156,11 +162,15 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 - 🧾 Final Presentation PDF (Google Drive)
 - ⚙️ n8n Multi-Agent Flow (redacted JSON)
 
+---
+
 ## ⭐️ Key Takeaways
 
 Built a real applied AI system connecting LLMs, data pipelines, and human evaluation loops.
 Demonstrates hands-on understanding of LLM operations, orchestration (n8n), and AI product strategy.
 Serves as a blueprint for AI-assisted insight generation in any domain (education, analytics, or enterprise data).
+
+---
 
 ## 🏫 About
 
