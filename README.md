@@ -145,15 +145,15 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 
 ## 🔒 Privacy Notes
 
-1. All datasets in this repo are synthetic and de-identified.
-2. Real assessment data was stored in BigQuery and is not included here.
-3. innovare_n8n.json has been sanitized — API keys and internal endpoints removed.
+- All datasets in this repo are synthetic and de-identified.
+- Real assessment data was stored in BigQuery and is not included here.
+- innovare_n8n.json has been sanitized — API keys and internal endpoints removed.
 
 📎 Additional Materials
 
-1. 🎥 Demo Video – Lovable Workflow
-2. 🧾 Final Presentation PDF (Google Drive)
-3. ⚙️ n8n Multi-Agent Flow (redacted JSON)
+- 🎥 Demo Video – Lovable Workflow
+- 🧾 Final Presentation PDF (Google Drive)
+- ⚙️ n8n Multi-Agent Flow (redacted JSON)
 
 ## ⭐️ Key Takeaways
 
