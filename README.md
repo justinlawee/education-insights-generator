@@ -25,7 +25,7 @@ The system performs:
 ---
 
 ## 🧩 Architecture
-
+```
 BigQuery ─▶ ETL / Data Schema ─▶ LLM Insight Generator (LangChain) ─▶
 Visualization (Streamlit / Plotly) ─▶ Judge LLM Evaluation ─▶ Feedback & Storage
 
@@ -40,7 +40,7 @@ Visualization (Streamlit / Plotly) ─▶ Judge LLM Evaluation ─▶ Feedback &
 | **Visualization Layer** | Dashboards and report generation using Streamlit & Plotly (`innovare_dashboard.ipynb`). |
 | **Evaluation Layer** | “Judge LLM” that scores insights using a rubric for quality and bias detection. |
 | **Automation Layer** | Multi-agent workflow designed in **n8n**, with optional **Lovable** front-end for nontechnical users. |
-
+```
 ---
 
 ## 📂 Repository Structure
@@ -54,7 +54,7 @@ education-insights-generator/
 │ ├── settings.py
 │ ├── prompts.py
 │ ├── bq_functions.py
-│ └── init.py
+│ └── __init__.py
 │
 ├── notebooks/ # Jupyter exploration & insight notebooks
 │ ├── CleanVersion_QGenerator.ipynb
