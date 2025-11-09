@@ -45,7 +45,8 @@ Visualization (Streamlit / Plotly) ─▶ Judge LLM Evaluation ─▶ Feedback &
 
 ## 📂 Repository Structure
 
-innovare-ai-lab/
+```
+education-insights-generator/
 │
 ├── src/ # Core logic and modular utilities
 │ ├── workflow.py
@@ -82,7 +83,7 @@ innovare-ai-lab/
 ├── requirements.txt # Dependencies (LangChain, BigQuery, Streamlit, etc.)
 ├── .gitignore
 └── README.md # This file
-
+```
 
 ---
 
