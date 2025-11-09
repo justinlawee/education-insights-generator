@@ -159,8 +159,8 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 📎 Additional Materials
 
 - 🎥 Demo Video – Lovable Workflow
-- 🧾 Final Presentation PDF (Google Drive)
-- ⚙️ [n8n Multi-Agent Flow (redacted JSON)](https://drive.google.com/file/d/1KGBahx3mkoWIHvbtndkx1bl0wV25w8ij)
+- 🧾 [Final Presentation PDF (Google Drive)](https://drive.google.com/file/d/1KGBahx3mkoWIHvbtndkx1bl0wV25w8ij)
+- ⚙️ [n8n Multi-Agent Flow (redacted JSON)](https://drive.google.com/file/d/1xUvA4_uastxhl175A02g-8PWJuA-n8Sc)
 
 ---
 
