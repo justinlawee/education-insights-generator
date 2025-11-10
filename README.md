@@ -176,7 +176,6 @@ Serves as a blueprint for AI-assisted insight generation in any domain (educatio
 
 Developed by:
 Justin Borenstein-Lawee
-MBA Candidate · Kellogg School of Management
 
 In collaboration with:
-Kellogg AI Lab (Spring 2025)
+Kellogg School of Management AI Lab (Spring 2025)
