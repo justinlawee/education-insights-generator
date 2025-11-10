@@ -69,7 +69,8 @@ education-insights-generator/
 │ └── iar_ela_sample.csv
 │
 ├── schema/ # Table schemas & metadata
-│ └── schema.json
+│ └── schema_iar_ela.json
+│ └── schema_iar_math.json
 │
 ├── docs/ # Supporting documentation
 │ ├── README_DATA.md
