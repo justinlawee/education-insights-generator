@@ -178,4 +178,4 @@ Developed by:
 Justin Borenstein-Lawee
 
 In collaboration with:
-Kellogg School of Management AI Lab (Spring 2025)
+Kellogg School of Management AI Lab (March-June, 2025)
