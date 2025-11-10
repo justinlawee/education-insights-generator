@@ -1,0 +1,26 @@
+[
+  {
+    "name": "project_id",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Project ID in Google Cloud Platform"
+  },
+  {
+    "name": "dataset_id",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Dataset ID in BigQuery"
+  },
+  {
+    "name": "table_id",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Name of the BigQuery table"
+  },
+  {
+    "name": "description",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Description of the table"
+  }
+]
