@@ -76,7 +76,6 @@ education-insights-generator/
 │ ├── README_DATA.md
 │ ├── README_GCLOUD.md
 │ ├── README_TABLES.md
-│ ├── AI Lab Spring Final Presentation (2).pdf
 │ ├── Insights Matrix.pdf
 │ └── innovare_n8n.json (private version omitted)
 │
