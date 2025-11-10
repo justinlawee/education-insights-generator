@@ -1,0 +1,438 @@
+Student_Name,Student_ID,Annual_Grade,Test_Grade,Grade_Level_Current,Current_Homeroom,Tested_School,Current_School,Product,Test_Scaled_Score,Student_Growth_Percentile,Subject_Category,Test_Primary_Result_Code,Year
+"Patterson, Camryn, K.",50600824,3,3,3,--,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Matthews, Tyshawn, D. Jr",60040913,3,3,3,--,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Mitchell, Eliza",60054023,4,4,4,--,BASE,INNO,IAR,659,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Hampton, Julian",60072349,4,4,4,--,BASE,INNO,IAR,664,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"McNeal, Jmariyah, S.",50732256,4,4,4,I212,BASE,INNO,IAR,679,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Steele, Kai'Marie",60091958,4,4,4,I212,BASE,INNO,IAR,694,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"White, Jahniya",50595074,4,4,4,I219,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Gilbert, Dezire, L.",50617601,4,4,4,I219,BASE,INNO,IAR,672,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Griggs, Kiley",50523923,4,4,5,I219,BASE,INNO,IAR,730,--,ELA,3- Approached Expectations,2020-2021
+"Saunders, Rena",50613877,4,4,5,I219,BASE,INNO,IAR,726,--,ELA,3- Approached Expectations,2020-2021
+"Heno-Baker, Camouri, V.",50498193,5,5,6,--,BASE,INNO,IAR,718,--,ELA,2- Partially Met Expectations,2020-2021
+"Jackson, Jeremiah, A.",50324437,6,6,6,--,BASE,INNO,IAR,704,--,ELA,2- Partially Met Expectations,2020-2021
+"Neely, Shakyra, C.",50556757,5,5,6,I210,BASE,INNO,IAR,662,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Peterson, Ethan",50553004,5,5,6,I210,BASE,INNO,IAR,724,--,ELA,2- Partially Met Expectations,2020-2021
+"Bryant, Ja'Nay, V.",50550600,5,5,6,I210,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2020-2021
+"Vinson, Marvin Jr",50452636,5,5,6,I210,BASE,INNO,IAR,721,--,ELA,2- Partially Met Expectations,2020-2021
+"Haynes, Somaya, L.",50318414,4,4,6,I212,BASE,INNO,IAR,702,--,ELA,2- Partially Met Expectations,2020-2021
+"Heno-Baker, Camouri, V.",50498193,4,4,6,I212,BASE,INNO,IAR,709,--,ELA,2- Partially Met Expectations,2020-2021
+"Johnson, Amari",50554724,3,3,6,I215,BASE,INNO,IAR,664,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Person, Deamiya, N.",50559423,3,3,6,I215,BASE,INNO,IAR,660,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Baker, Michael III",50327076,3,3,6,I215,BASE,INNO,IAR,692,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Johnson, Ja'leah",50558244,3,3,6,I215,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Williams, Arielle, E.",50444753,3,3,6,I215,BASE,INNO,IAR,683,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Thomas, Aziyah",50610552,3,3,6,I215,BASE,INNO,IAR,680,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Heno-Baker, Camouri, V.",50498193,3,3,6,I215,BASE,INNO,IAR,677,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Brooks, Makayla, M.",50557425,3,3,6,I215,BASE,INNO,IAR,680,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Bryant, Finnise, A.",50447183,3,3,6,I215,BASE,INNO,IAR,696,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Jackson, Jasmine, T.",50592011,3,3,6,I215,BASE,INNO,IAR,720,--,ELA,2- Partially Met Expectations,2020-2021
+"FITTS, DASHAWN, J.",50551492,5,5,7,I210,BASE,INNO,IAR,683,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Poindexter, Catherine, S.",60157386,8,8,8,--,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2020-2021
+"Williams, Elijah",60051214,3,3,3,I205,BASE,INNO,IAR,764,NA,ELA,4- Met Expectations,2021-2022
+"Mejia, Yaquelin",60064656,4,4,4,--,BASE,INNO,IAR,726,70,ELA,3- Approached Expectations,2021-2022
+"Johnson, Ja'cyon, L.",60051673,3,3,4,I205,BASE,INNO,IAR,674,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Jarrett, Everette, N. Jr",50599490,3,3,4,I205,BASE,INNO,IAR,688,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Sirois, Jahzara, P.",50541579,3,3,4,I205,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Gholston, Kashauna",50564164,3,3,4,I205,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Edwards, Makaya, A.",60052992,3,3,4,I205,BASE,INNO,IAR,657,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Hicks, Kenneth",50718195,3,3,4,I205,BASE,INNO,IAR,729,NA,ELA,3- Approached Expectations,2021-2022
+"Williams, Demahr, D.",50611419,3,3,4,I205,BASE,INNO,IAR,726,NA,ELA,3- Approached Expectations,2021-2022
+"Mejia, Yaquelin",60064656,3,3,4,I205,BASE,INNO,IAR,726,NA,ELA,3- Approached Expectations,2021-2022
+"Washington, Malachi, E.",50392925,4,4,4,I215,BASE,INNO,IAR,674,14,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Hicks, Kenneth",50718195,4,4,4,I215,BASE,INNO,IAR,731,46,ELA,3- Approached Expectations,2021-2022
+"Saunders, Rena",50613877,3,3,5,--,BASE,INNO,IAR,693,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Vinson, Maliyah",50522883,3,3,5,--,BASE,INNO,IAR,676,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Griffin, Makayla, T.",50590969,3,3,5,--,BASE,INNO,IAR,716,NA,ELA,2- Partially Met Expectations,2021-2022
+"Griffin, Mackenzie, M.",50590968,5,5,5,--,BASE,INNO,IAR,743,NA,ELA,3- Approached Expectations,2021-2022
+"Ike, Da'Nyla",50536097,5,5,5,--,BASE,INNO,IAR,728,NA,ELA,3- Approached Expectations,2021-2022
+"Leonard, Aaki",60100763,3,3,5,I205,BASE,INNO,IAR,687,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Scott, Sariah, D.",50502894,3,3,5,I205,BASE,INNO,IAR,667,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Gordon, A'Keelah",50569335,3,3,5,I205,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Dowdell, Jorey, K.",50596748,3,3,5,I205,BASE,INNO,IAR,681,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Green, Honest, L.",50723114,3,3,5,I205,BASE,INNO,IAR,682,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Puckett, London, J.",50552388,3,3,5,I205,BASE,INNO,IAR,667,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Louis, Kenton, E.",50593996,3,3,5,I205,BASE,INNO,IAR,661,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Gordon, A'keya, D.",50569336,3,3,5,I205,BASE,INNO,IAR,674,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Richardson, Dajuan, D.",50605044,3,3,5,I205,BASE,INNO,IAR,681,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Wallace, Ja'dore, M.",50597069,3,3,5,I205,BASE,INNO,IAR,667,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Enis, Emiya",50546930,3,3,5,I205,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"McMillian, Jaylon, D.",50537337,3,3,5,I205,BASE,INNO,IAR,681,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Griffin, Mackenzie, M.",50590968,3,3,5,I205,BASE,INNO,IAR,702,NA,ELA,2- Partially Met Expectations,2021-2022
+"Williams, Justin",50533060,3,3,5,I205,BASE,INNO,IAR,716,NA,ELA,2- Partially Met Expectations,2021-2022
+"Haddon, Anthony, S. III",50523108,3,3,5,I205,BASE,INNO,IAR,739,NA,ELA,3- Approached Expectations,2021-2022
+"Ike, Da'Nyla",50536097,3,3,5,I205,BASE,INNO,IAR,735,NA,ELA,3- Approached Expectations,2021-2022
+"Louis, Kenton, E.",50593996,5,5,5,I212,BASE,INNO,IAR,721,NA,ELA,2- Partially Met Expectations,2021-2022
+"Gordon, A'keya, D.",50569336,5,5,5,I212,BASE,INNO,IAR,714,NA,ELA,2- Partially Met Expectations,2021-2022
+"Williams, Justin",50533060,5,5,5,I212,BASE,INNO,IAR,717,83,ELA,2- Partially Met Expectations,2021-2022
+"Johnson, Ja'Myah",50558144,5,5,5,I212,BASE,INNO,IAR,728,NA,ELA,3- Approached Expectations,2021-2022
+"Vinson, Maliyah",50522883,5,5,5,I212,BASE,INNO,IAR,732,NA,ELA,3- Approached Expectations,2021-2022
+"Scott, Sariah, D.",50502894,5,5,5,I212,BASE,INNO,IAR,728,NA,ELA,3- Approached Expectations,2021-2022
+"Johnson, Ja'Myah",50558144,4,4,5,I215,BASE,INNO,IAR,736,NA,ELA,3- Approached Expectations,2021-2022
+"Wilson, Aniyah, M.",50340748,5,5,5,I219,BASE,INNO,IAR,709,NA,ELA,2- Partially Met Expectations,2021-2022
+"Saunders, Rena",50613877,5,5,5,I219,BASE,INNO,IAR,709,NA,ELA,2- Partially Met Expectations,2021-2022
+"Moore, Leiyah",50529254,5,5,5,I219,BASE,INNO,IAR,703,NA,ELA,2- Partially Met Expectations,2021-2022
+"Richardson, Dajuan, D.",50605044,5,5,5,I219,BASE,INNO,IAR,718,25,ELA,2- Partially Met Expectations,2021-2022
+"Green, Honest, L.",50723114,5,5,5,I219,BASE,INNO,IAR,730,NA,ELA,3- Approached Expectations,2021-2022
+"Blissit, Miracle, E.",60057672,5,5,5,I219,BASE,INNO,IAR,731,39,ELA,3- Approached Expectations,2021-2022
+"Jeffries, Miamor",60158536,5,5,5,I219,BASE,INNO,IAR,730,NA,ELA,3- Approached Expectations,2021-2022
+"Brooks, Makayla, M.",50557425,4,4,6,--,BASE,INNO,IAR,699,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Vinson, Marvin Jr",50452636,4,4,6,--,BASE,INNO,IAR,685,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Haynes, Somaya, L.",50318414,5,5,6,--,BASE,INNO,IAR,676,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Peterson, Ethan",50553004,6,6,6,--,BASE,INNO,IAR,703,NA,ELA,2- Partially Met Expectations,2021-2022
+"Tinnel, Montana",50536982,5,5,6,I212,BASE,INNO,IAR,689,22,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Hampton, Jeremiah",60072331,5,5,6,I212,BASE,INNO,IAR,655,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Hampton, Jeremiah",60072331,4,4,6,I215,BASE,INNO,IAR,699,29,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Peterson, Ethan",50553004,4,4,6,I215,BASE,INNO,IAR,699,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Person, Deamiya, N.",50559423,4,4,6,I215,BASE,INNO,IAR,685,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Jackson, Ocean",50499748,4,4,6,I215,BASE,INNO,IAR,686,30,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Williams, Arielle, E.",50444753,4,4,6,I215,BASE,INNO,IAR,680,21,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Watson, Darren",50470443,4,4,6,I215,BASE,INNO,IAR,658,8,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Cobbins, Clifton",50609079,4,4,6,I215,BASE,INNO,IAR,685,24,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Mack, Jordyn, A.",50632421,4,4,6,I215,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Bryant, Ja'Nay, V.",50550600,4,4,6,I215,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Anderson, Chloe, D.",50541535,4,4,6,I215,BASE,INNO,IAR,699,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Thomas, Aziyah",50610552,4,4,6,I215,BASE,INNO,IAR,690,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Dailey, Daziah, A.",50325632,4,4,6,I215,BASE,INNO,IAR,721,NA,ELA,2- Partially Met Expectations,2021-2022
+"Jackson, Jasmine, T.",50592011,4,4,6,I215,BASE,INNO,IAR,715,NA,ELA,2- Partially Met Expectations,2021-2022
+"Williams, Da'varrion, J.",50323497,5,5,7,--,BASE,INNO,IAR,667,14,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Strange, Rhianna, M.",50479977,5,5,7,--,BASE,INNO,IAR,694,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"MCNEAL, KMARIYAH",50380905,6,6,7,--,BASE,INNO,IAR,697,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Shavers, Kody",50474735,6,6,7,I210,BASE,INNO,IAR,686,28,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Wade, Jessica, J.",50534232,6,6,7,I210,BASE,INNO,IAR,699,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Oneil, Dina",50476074,6,6,7,I210,BASE,INNO,IAR,691,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Brown, Azaria",60204639,6,6,7,I210,BASE,INNO,IAR,684,2,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Williams, Edward, L. Jr",50409823,6,6,7,I210,BASE,INNO,IAR,661,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Sinclair, Miya",50354315,6,6,7,I210,BASE,INNO,IAR,689,47,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Pitchford, Corian Jr",50394484,6,6,7,I210,BASE,INNO,IAR,691,13,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Strange, Rhianna, M.",50479977,6,6,7,I210,BASE,INNO,IAR,693,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Daniels, Rayna",50493171,6,6,7,I210,BASE,INNO,IAR,695,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Mailey, Seven",50482925,6,6,7,I210,BASE,INNO,IAR,719,29,ELA,2- Partially Met Expectations,2021-2022
+"Wade, Jessica, J.",50534232,7,7,7,I210,BASE,INNO,IAR,750,NA,ELA,4- Met Expectations,2021-2022
+"Coleman, Erin, D.",50415203,5,5,7,I212,BASE,INNO,IAR,683,7,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Wilson, Argie, L. Jr",50406431,5,5,7,I212,BASE,INNO,IAR,683,10,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Williams, Edward, L. Jr",50409823,4,4,7,I215,BASE,INNO,IAR,656,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Shavers, Kody",50474735,4,4,7,I215,BASE,INNO,IAR,686,52,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Strange, Rhianna, M.",50479977,4,4,7,I215,BASE,INNO,IAR,690,22,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Wade, Jessica, J.",50534232,4,4,7,I215,BASE,INNO,IAR,695,59,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"McNeal, Smariyah",50337986,4,4,7,I215,BASE,INNO,IAR,673,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Coleman, Erin, D.",50415203,4,4,7,I215,BASE,INNO,IAR,674,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Williams, Edward, L. Jr",50409823,5,5,7,I219,BASE,INNO,IAR,689,41,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Pitchford, Corian Jr",50394484,5,5,7,I219,BASE,INNO,IAR,683,45,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Williams, Ke'shai, J.",50354074,7,7,8,--,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Bryant, Tarsheanna, S.",50413131,7,7,8,--,BASE,INNO,IAR,711,62,ELA,2- Partially Met Expectations,2021-2022
+"Hampton, Demetrius",60072360,7,7,8,--,BASE,INNO,IAR,720,NA,ELA,2- Partially Met Expectations,2021-2022
+"Poindexter, Catherine, S.",60157386,7,7,8,--,BASE,INNO,IAR,720,NA,ELA,2- Partially Met Expectations,2021-2022
+"Heard, Jahar",50406774,7,7,8,--,BASE,INNO,IAR,716,NA,ELA,2- Partially Met Expectations,2021-2022
+"Cobbins, Shanica, L.",50414056,8,8,8,--,BASE,INNO,IAR,686,NA,ELA,1- Did Not Yet Meet Expectations,2021-2022
+"Cobbins, Shanica, L.",50414056,6,6,8,I210,BASE,INNO,IAR,706,NA,ELA,2- Partially Met Expectations,2021-2022
+"Hampton, Demetrius",60072360,6,6,8,I210,BASE,INNO,IAR,723,NA,ELA,2- Partially Met Expectations,2021-2022
+"Poindexter, Catherine, S.",60157386,6,6,8,I210,BASE,INNO,IAR,703,NA,ELA,2- Partially Met Expectations,2021-2022
+"Willis, Ge'Niah, M.",50344401,6,6,8,I210,BASE,INNO,IAR,727,NA,ELA,3- Approached Expectations,2021-2022
+"Starling, Marc-Anthony, d.",50481427,6,6,8,I210,BASE,INNO,IAR,725,64,ELA,3- Approached Expectations,2021-2022
+"McMillian, Jalonte, D.",50279537,6,6,9,I210,BASE,INNO,IAR,706,NA,ELA,2- Partially Met Expectations,2021-2022
+"Williams, London, M.",60038293,3,3,3,--,BASE,INNO,IAR,654,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Norris, Destiny",60044722,3,3,3,--,BASE,INNO,IAR,693,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Creamer, Rhonda, M.",50647086,3,3,3,--,BASE,INNO,IAR,738,NA,ELA,3- Approached Expectations,2022-2023
+"Smith, Christian",60045952,3,3,3,I201,BASE,INNO,IAR,654,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Marin, Sofia, P.",63088968,3,3,3,I201,BASE,INNO,IAR,679,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Greene, Kingston",50718236,3,3,3,I201,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Weathers, Kaylen, J.",60067152,3,3,3,I201,BASE,INNO,IAR,668,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Crawford, Sariah, A.",50546748,3,3,3,I201,BASE,INNO,IAR,654,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Mickiel, London, M.",50723152,3,3,4,--,BASE,INNO,IAR,692,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Killingsworth, Jamari, M.",60045995,3,3,4,--,BASE,INNO,IAR,658,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Killingsworth, Jamiyah, M.",60045983,3,3,4,--,BASE,INNO,IAR,668,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Coleman, Kaiel, J.",50443241,4,4,4,--,BASE,INNO,IAR,725,41,ELA,3- Approached Expectations,2022-2023
+"Thomas, Kyle, L.",61458150,4,4,4,--,BASE,INNO,IAR,754,74,ELA,4- Met Expectations,2022-2023
+"Bryant, Finner, L. V",60045939,3,3,4,I201,BASE,INNO,IAR,670,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Jenkins, Isis, S.",60095894,3,3,4,I201,BASE,INNO,IAR,678,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Tubbs, NaShonna",50609080,3,3,4,I201,BASE,INNO,IAR,650,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dailey, Danzel, S. Jr",60045942,3,3,4,I201,BASE,INNO,IAR,686,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Harris, Seraya",50577713,3,3,4,I201,BASE,INNO,IAR,658,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Reid, Kein, A.",50731377,3,3,4,I201,BASE,INNO,IAR,658,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Steele, Kai'Marie",60091958,3,3,4,I201,BASE,INNO,IAR,723,NA,ELA,2- Partially Met Expectations,2022-2023
+"Dorsey, Jakayla, T.",50659767,3,3,4,I201,BASE,INNO,IAR,723,NA,ELA,2- Partially Met Expectations,2022-2023
+"Hampton, Julian",60072349,3,3,4,I201,BASE,INNO,IAR,733,NA,ELA,3- Approached Expectations,2022-2023
+"Sims, Victor",60189599,4,4,4,I205,BASE,INNO,IAR,718,11,ELA,2- Partially Met Expectations,2022-2023
+"Sirois, Jahzara, P.",50541579,4,4,4,I205,BASE,INNO,IAR,722,80,ELA,2- Partially Met Expectations,2022-2023
+"Williams, Demahr, D.",50611419,4,4,4,I205,BASE,INNO,IAR,725,95,ELA,3- Approached Expectations,2022-2023
+"Lanier, Da'vohn",60143477,4,4,4,I205,BASE,INNO,IAR,746,86,ELA,3- Approached Expectations,2022-2023
+"Franklin-Smith, Kaden",60033681,4,4,4,I205,BASE,INNO,IAR,749,67,ELA,3- Approached Expectations,2022-2023
+"Lester, Javonte",50604872,3,3,5,--,BASE,INNO,IAR,716,NA,ELA,2- Partially Met Expectations,2022-2023
+"Puckett, London, J.",50552388,4,4,5,--,BASE,INNO,IAR,674,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Puckett, London, J.",50552388,5,5,5,--,BASE,INNO,IAR,706,82,ELA,2- Partially Met Expectations,2022-2023
+"Griffin, Makayla, T.",50590969,5,5,5,--,BASE,INNO,IAR,710,53,ELA,2- Partially Met Expectations,2022-2023
+"Wilson, Aniyah, M.",50340748,3,3,5,I201,BASE,INNO,IAR,708,NA,ELA,2- Partially Met Expectations,2022-2023
+"Johnson, Ja'Myah",50558144,3,3,5,I201,BASE,INNO,IAR,708,NA,ELA,2- Partially Met Expectations,2022-2023
+"Lancaster, Ayden, M.",50499555,3,3,5,I201,BASE,INNO,IAR,708,NA,ELA,2- Partially Met Expectations,2022-2023
+"Smith, Kenard",50540906,4,4,5,I205,BASE,INNO,IAR,692,31,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Green, Honest, L.",50723114,4,4,5,I205,BASE,INNO,IAR,696,38,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Blissit, Miracle, E.",60057672,4,4,5,I205,BASE,INNO,IAR,674,21,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Enis, Emiya",50546930,4,4,5,I205,BASE,INNO,IAR,666,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Rogers, Neviyah, V.",50724553,4,4,5,I205,BASE,INNO,IAR,686,41,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Gordon, A'keya, D.",50569336,4,4,5,I205,BASE,INNO,IAR,687,25,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Wilson, Aniyah, M.",50340748,4,4,5,I205,BASE,INNO,IAR,696,50,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Gordon, A'Keelah",50569335,4,4,5,I205,BASE,INNO,IAR,697,47,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Williams, Justin",50533060,4,4,5,I205,BASE,INNO,IAR,686,48,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Wallace, Ja'dore, M.",50597069,4,4,5,I205,BASE,INNO,IAR,665,16,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Jenkins, K'Leb",50573094,4,4,5,I205,BASE,INNO,IAR,708,65,ELA,2- Partially Met Expectations,2022-2023
+"Lancaster, Ayden, M.",50499555,4,4,5,I205,BASE,INNO,IAR,711,77,ELA,2- Partially Met Expectations,2022-2023
+"Louis, Kenton, E.",50593996,4,4,5,I205,BASE,INNO,IAR,718,50,ELA,2- Partially Met Expectations,2022-2023
+"Moore, Leiyah",50529254,4,4,5,I205,BASE,INNO,IAR,711,72,ELA,2- Partially Met Expectations,2022-2023
+"Griffin, Mackenzie, M.",50590968,4,4,5,I205,BASE,INNO,IAR,724,38,ELA,2- Partially Met Expectations,2022-2023
+"Richardson, Dajuan, D.",50605044,4,4,5,I205,BASE,INNO,IAR,718,19,ELA,2- Partially Met Expectations,2022-2023
+"Vinson, Maliyah",50522883,4,4,5,I205,BASE,INNO,IAR,724,78,ELA,2- Partially Met Expectations,2022-2023
+"McMillian, Jaylon, D.",50537337,4,4,5,I205,BASE,INNO,IAR,721,87,ELA,2- Partially Met Expectations,2022-2023
+"Robinson, Jaiden",50537344,4,4,5,I205,BASE,INNO,IAR,779,75,ELA,4- Met Expectations,2022-2023
+"Leonard, Aaki",60100763,5,5,5,I215,BASE,INNO,IAR,684,22,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dunn, Makyla",60109015,5,5,5,I215,BASE,INNO,IAR,652,2,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dowdell, Jorey, K.",50596748,5,5,5,I215,BASE,INNO,IAR,706,57,ELA,2- Partially Met Expectations,2022-2023
+"Ayers, Josiah",50724829,5,5,5,I215,BASE,INNO,IAR,719,68,ELA,2- Partially Met Expectations,2022-2023
+"Jenkins, K'Leb",50573094,5,5,5,I215,BASE,INNO,IAR,706,6,ELA,2- Partially Met Expectations,2022-2023
+"Lancaster, Ayden, M.",50499555,5,5,5,I215,BASE,INNO,IAR,703,39,ELA,2- Partially Met Expectations,2022-2023
+"Haddon, Anthony, S. III",50523108,5,5,5,I215,BASE,INNO,IAR,724,92,ELA,2- Partially Met Expectations,2022-2023
+"Jeffries, Mikyel",60158534,5,5,5,I215,BASE,INNO,IAR,727,NA,ELA,3- Approached Expectations,2022-2023
+"Figueroa, Chanairiz",50536440,5,5,6,--,BASE,INNO,IAR,684,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Baker, Michael III",50327076,4,4,6,I205,BASE,INNO,IAR,697,32,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Johnson, Amari",50554724,4,4,6,I205,BASE,INNO,IAR,674,26,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Tinnel, Montana",50536982,4,4,6,I205,BASE,INNO,IAR,666,19,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dorsey, Jalena, T.",50484859,4,4,6,I205,BASE,INNO,IAR,784,97,ELA,4- Met Expectations,2022-2023
+"Camble, Brandon",50533604,6,6,6,I212,BASE,INNO,IAR,697,14,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Strong, Prince, M.",50427314,6,6,6,I212,BASE,INNO,IAR,676,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Cobbins, Clifton",50609079,6,6,6,I212,BASE,INNO,IAR,697,39,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Mack, Jordyn, A.",50632421,6,6,6,I212,BASE,INNO,IAR,694,18,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Cardenas-Perez, Jhoan, M.",61989262,6,6,6,I212,BASE,INNO,IAR,650,1,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dailey, Daziah, A.",50325632,5,5,6,I215,BASE,INNO,IAR,684,32,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Watson, Darren",50470443,5,5,6,I215,BASE,INNO,IAR,699,39,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Jackson, Jasmine, T.",50592011,5,5,6,I215,BASE,INNO,IAR,676,18,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Camble, Brandon",50533604,5,5,6,I215,BASE,INNO,IAR,676,20,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Strong, Prince, M.",50427314,5,5,6,I215,BASE,INNO,IAR,678,18,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Bryant, Finnise, A.",50447183,5,5,6,I215,BASE,INNO,IAR,690,31,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Jackson, Ocean",50499748,5,5,6,I215,BASE,INNO,IAR,685,49,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Thomas, Aziyah",50610552,5,5,6,I215,BASE,INNO,IAR,678,33,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Mack, Jordyn, A.",50632421,5,5,6,I215,BASE,INNO,IAR,652,7,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Cobbins, Clifton",50609079,5,5,6,I215,BASE,INNO,IAR,695,10,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Johnson, Amari",50554724,5,5,6,I215,BASE,INNO,IAR,671,20,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Luckie, Brilynn",50357791,5,5,6,I215,BASE,INNO,IAR,729,97,ELA,3- Approached Expectations,2022-2023
+"Young, Jalin",50540035,5,5,6,I215,BASE,INNO,IAR,744,NA,ELA,3- Approached Expectations,2022-2023
+"Carter, A'Nijah",60101350,5,5,6,I215,BASE,INNO,IAR,725,90,ELA,3- Approached Expectations,2022-2023
+"Brooks, Makayla, M.",50557425,6,6,6,I215,BASE,INNO,IAR,777,97,ELA,4- Met Expectations,2022-2023
+"Vinson, Marvin Jr",50452636,6,6,6,I219,BASE,INNO,IAR,688,10,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Montgomery, Jaeda, S.",50601744,6,6,6,I219,BASE,INNO,IAR,698,70,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Thomas, Aziyah",50610552,6,6,6,I219,BASE,INNO,IAR,689,37,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Dorsey, Jalena, T.",50484859,6,6,6,I219,BASE,INNO,IAR,755,92,ELA,4- Met Expectations,2022-2023
+"McNeal, Smariyah",50337986,6,6,7,--,BASE,INNO,IAR,683,18,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Shavers, Kody",50474735,7,7,7,--,BASE,INNO,IAR,733,91,ELA,3- Approached Expectations,2022-2023
+"Sinclair, Miya",50354315,7,7,7,I210,BASE,INNO,IAR,665,15,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Rounds, Chare'a, L.",50405418,7,7,7,I210,BASE,INNO,IAR,687,4,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Coleman, Erin, D.",50415203,7,7,7,I210,BASE,INNO,IAR,703,45,ELA,2- Partially Met Expectations,2022-2023
+"Brown, Azaria",60204639,7,7,7,I210,BASE,INNO,IAR,707,57,ELA,2- Partially Met Expectations,2022-2023
+"Agnew, Timothy, D. Jr",50488972,7,7,7,I210,BASE,INNO,IAR,717,80,ELA,2- Partially Met Expectations,2022-2023
+"Wilson, Argie, L. Jr",50406431,7,7,7,I210,BASE,INNO,IAR,718,NA,ELA,2- Partially Met Expectations,2022-2023
+"McNeal, Smariyah",50337986,7,7,7,I210,BASE,INNO,IAR,714,70,ELA,2- Partially Met Expectations,2022-2023
+"Daniels, Rayna",50493171,7,7,7,I210,BASE,INNO,IAR,701,49,ELA,2- Partially Met Expectations,2022-2023
+"MCNEAL, KMARIYAH",50380905,7,7,7,I210,BASE,INNO,IAR,726,36,ELA,3- Approached Expectations,2022-2023
+"Reyes, Abisai",50453904,7,7,7,I210,BASE,INNO,IAR,736,64,ELA,3- Approached Expectations,2022-2023
+"Mitchell, Kamaya",50479740,7,7,7,I210,BASE,INNO,IAR,742,72,ELA,3- Approached Expectations,2022-2023
+"Williams, Takyra, M.",50373492,6,6,7,I212,BASE,INNO,IAR,722,79,ELA,2- Partially Met Expectations,2022-2023
+"FITTS, DASHAWN, J.",50551492,6,6,7,I212,BASE,INNO,IAR,748,76,ELA,3- Approached Expectations,2022-2023
+"Agnew, Timothy, D. Jr",50488972,6,6,7,I212,BASE,INNO,IAR,737,54,ELA,3- Approached Expectations,2022-2023
+"Louis, Kenya, E.",50394482,6,6,7,I212,BASE,INNO,IAR,737,91,ELA,3- Approached Expectations,2022-2023
+"Haddon, Aniyah, M.",50409449,6,6,7,I212,BASE,INNO,IAR,735,44,ELA,3- Approached Expectations,2022-2023
+"Steele, Na'khia, S.",60091957,5,5,7,I215,BASE,INNO,IAR,749,NA,ELA,3- Approached Expectations,2022-2023
+"Smith, Masiah, D.",50438638,5,5,7,I215,BASE,INNO,IAR,732,60,ELA,3- Approached Expectations,2022-2023
+"Williams, Da'varrion, J.",50323497,6,6,7,I219,BASE,INNO,IAR,735,48,ELA,3- Approached Expectations,2022-2023
+"Wilson, Argie, L. Jr",50406431,6,6,7,I219,BASE,INNO,IAR,726,76,ELA,3- Approached Expectations,2022-2023
+"Smith, Masiah, D.",50438638,6,6,7,I219,BASE,INNO,IAR,768,96,ELA,4- Met Expectations,2022-2023
+"Whittmon, Lauren, G.",50392404,6,6,7,I219,BASE,INNO,IAR,755,83,ELA,4- Met Expectations,2022-2023
+"Anderson, Jeremiah, D.",50352514,6,6,8,--,BASE,INNO,IAR,702,63,ELA,2- Partially Met Expectations,2022-2023
+"Louis, Kenyonte, E.",50173761,8,8,8,--,BASE,INNO,IAR,715,24,ELA,2- Partially Met Expectations,2022-2023
+"Ollie, Jataveon, U.",50202932,8,8,8,--,BASE,INNO,IAR,708,17,ELA,2- Partially Met Expectations,2022-2023
+"Anderson, Jeremiah, D.",50352514,8,8,8,--,BASE,INNO,IAR,732,76,ELA,3- Approached Expectations,2022-2023
+"Cano, Annelyse",50457551,8,8,8,--,BASE,INNO,IAR,737,68,ELA,3- Approached Expectations,2022-2023
+"Cobbins, Shanica, L.",50414056,7,7,8,I210,BASE,INNO,IAR,681,24,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Greene, Santonio, J.",50340901,7,7,8,I210,BASE,INNO,IAR,653,13,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Starling, Marc-Anthony, d.",50481427,7,7,8,I210,BASE,INNO,IAR,692,24,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Hall-Chamliss, Samir",50341790,7,7,8,I210,BASE,INNO,IAR,666,20,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Willis, Ge'Niah, M.",50344401,7,7,8,I210,BASE,INNO,IAR,674,NA,ELA,1- Did Not Yet Meet Expectations,2022-2023
+"Anderson, Jeremiah, D.",50352514,7,7,8,I210,BASE,INNO,IAR,721,69,ELA,2- Partially Met Expectations,2022-2023
+"Russell, Antoinette",50545816,7,7,8,I210,BASE,INNO,IAR,720,80,ELA,2- Partially Met Expectations,2022-2023
+"Willis, Ge'Niah, M.",50344401,8,8,8,I210,BASE,INNO,IAR,771,77,ELA,4- Met Expectations,2022-2023
+"Louis, Kenyonsha",50341865,6,6,8,I212,BASE,INNO,IAR,707,79,ELA,2- Partially Met Expectations,2022-2023
+"Williams, Ke'shai, J.",50354074,6,6,8,I212,BASE,INNO,IAR,712,22,ELA,2- Partially Met Expectations,2022-2023
+"Bryant, Martise, L.",50548143,6,6,8,I212,BASE,INNO,IAR,709,63,ELA,2- Partially Met Expectations,2022-2023
+"Russell, Antoinette",50545816,6,6,8,I219,BASE,INNO,IAR,709,79,ELA,2- Partially Met Expectations,2022-2023
+"Bryant, Tarsheanna, S.",50413131,6,6,8,I219,BASE,INNO,IAR,700,72,ELA,2- Partially Met Expectations,2022-2023
+"Greene, Santonio, J.",50340901,6,6,8,I219,BASE,INNO,IAR,724,65,ELA,2- Partially Met Expectations,2022-2023
+"Quintero, Fabian",60145295,3,3,3,I203,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Holmes, Arthur, J. Jr",50497622,3,3,3,I203,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Campbell, Maziyah, C.",60151967,3,3,3,I203,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Conner, Jamari, J. Jr",60040908,3,3,3,I203,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Patterson, Qayton, P.",60131200,3,3,3,I203,BASE,INNO,IAR,658,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bowens, Sir' Jayden, D.",50650005,3,3,3,I203,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Dixon, Eddie Jr",50659725,3,3,3,I203,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Kelly, Derrick, L.",60266591,3,3,3,I203,BASE,INNO,IAR,683,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Smith, Cherish, A.",60040900,3,3,3,I203,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Hampton, Jacob",60150965,3,3,3,I203,BASE,INNO,IAR,683,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Grant, Jakarri, c.",50659764,3,3,3,I203,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Rogers, Vintavia, J.",50426503,3,3,3,I203,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Dunigan, Aaron, M. Jr",50568975,3,3,3,I203,BASE,INNO,IAR,716,--,ELA,2- Partially Met Expectations,2023-2024
+"Johnson Jr, Joseph",50651921,3,3,3,I203,BASE,INNO,IAR,743,--,ELA,3- Approached Expectations,2023-2024
+"Willis-Johnson, Gervon",60004979,3,3,3,I203,BASE,INNO,IAR,727,--,ELA,3- Approached Expectations,2023-2024
+"Treadwell, Omarion, T.",60004739,3,3,3,I204,BASE,INNO,IAR,683,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Love, Dai'Lyn",60045957,3,3,3,I204,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Carcamo Alvarez, Saray, S.",62051106,3,3,3,I204,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bunch, Shaniya, L.",60073007,3,3,3,I204,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Jiles, Michael, D.",60007496,3,3,3,I204,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Jackson, Ariyana, D.",50655167,3,3,3,I204,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Williams, Natali, C.",50723785,3,3,3,I204,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Lester, Jamari",60145517,3,3,3,I204,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Blissit, Ethan, C.",60094359,3,3,3,I204,BASE,INNO,IAR,703,--,ELA,2- Partially Met Expectations,2023-2024
+"Britton, Aamir, T.",60040911,3,3,3,I204,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Dowdell, Calin, A.",50660105,3,3,3,I204,BASE,INNO,IAR,727,--,ELA,3- Approached Expectations,2023-2024
+"Johnson, Ja'cyon, L.",60051673,4,4,4,I201,BASE,INNO,IAR,663,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Harris, Seraya",50577713,4,4,4,I201,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Mickiel, London, M.",50723152,4,4,4,I201,BASE,INNO,IAR,699,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Tubbs, NaShonna",50609080,4,4,4,I201,BASE,INNO,IAR,688,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Camble, Navaeh",50533603,4,4,4,I201,BASE,INNO,IAR,688,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"McSpadden, Justice, J.",60052774,4,4,4,I201,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Lee, Emarreon",60050047,4,4,4,I201,BASE,INNO,IAR,688,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bryant, Finner, L. V",60045939,4,4,4,I201,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Jenkins, Isis, S.",60095894,4,4,4,I201,BASE,INNO,IAR,688,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bunch, Emarrihanna",60050051,4,4,4,I201,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Lyons, Cincere, J.",50380051,4,4,4,I201,BASE,INNO,IAR,721,--,ELA,2- Partially Met Expectations,2023-2024
+"Dorsey, Jakayla, T.",50659767,4,4,4,I201,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Coleman, Kaiel, J.",50443241,3,3,4,I203,BASE,INNO,IAR,716,--,ELA,2- Partially Met Expectations,2023-2024
+"Franklin-Smith, Kaden",60033681,3,3,4,I203,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Camble, Navaeh",50533603,3,3,4,I204,BASE,INNO,IAR,703,--,ELA,2- Partially Met Expectations,2023-2024
+"Mitchell, Eliza",60054023,3,3,4,I204,BASE,INNO,IAR,703,--,ELA,2- Partially Met Expectations,2023-2024
+"McNeal, Jmariyah, S.",50732256,3,3,4,I204,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Lester, Javonte",50604872,4,4,5,I201,BASE,INNO,IAR,673,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Dowdell, Jorey, K.",50596748,4,4,5,I201,BASE,INNO,IAR,711,--,ELA,2- Partially Met Expectations,2023-2024
+"Gray, Dejuan",50549374,4,4,5,I201,BASE,INNO,IAR,703,--,ELA,2- Partially Met Expectations,2023-2024
+"Ike, Da'Nyla",50536097,4,4,5,I201,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Griffin, Makayla, T.",50590969,4,4,5,I201,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Leonard, Aaki",60100763,4,4,5,I201,BASE,INNO,IAR,721,--,ELA,2- Partially Met Expectations,2023-2024
+"Scott, Sariah, D.",50502894,4,4,5,I201,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Hazley, Joseph, D. Jr",50485384,4,4,5,I201,BASE,INNO,IAR,749,--,ELA,3- Approached Expectations,2023-2024
+"Moore, Leiyah",50529254,3,3,5,I203,BASE,INNO,IAR,753,--,ELA,4- Met Expectations,2023-2024
+"Robinson, Jaiden",50537344,3,3,5,I203,BASE,INNO,IAR,762,--,ELA,4- Met Expectations,2023-2024
+"Jenkins, K'Leb",50573094,3,3,5,I204,BASE,INNO,IAR,771,--,ELA,4- Met Expectations,2023-2024
+"Wallace, Ja'dore, M.",50597069,5,5,5,I205,BASE,INNO,IAR,687,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Hernandez, Luis, F.",62832932,5,5,5,I205,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Holmes, Vivian, D.",50436920,5,5,5,I205,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Gordon, A'Keelah",50569335,5,5,5,I205,BASE,INNO,IAR,675,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Smith, Kenard",50540906,5,5,5,I205,BASE,INNO,IAR,675,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Enis, Emiya",50546930,5,5,5,I205,BASE,INNO,IAR,656,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Lester, Javonte",50604872,5,5,5,I205,BASE,INNO,IAR,709,--,ELA,2- Partially Met Expectations,2023-2024
+"Rogers, Neviyah, V.",50724553,5,5,5,I205,BASE,INNO,IAR,758,--,ELA,4- Met Expectations,2023-2024
+"Gray, Dejuan",50549374,5,5,5,I205,BASE,INNO,IAR,760,--,ELA,4- Met Expectations,2023-2024
+"Robinson, Jaiden",50537344,5,5,5,I205,BASE,INNO,IAR,764,--,ELA,4- Met Expectations,2023-2024
+"Heno-Baker, Camouri, V.",50498193,6,6,6,--,BASE,INNO,IAR,686,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bryant, Finnise, A.",50447183,4,4,6,I201,BASE,INNO,IAR,740,--,ELA,3- Approached Expectations,2023-2024
+"Johnson, Ja'leah",50558244,4,4,6,I201,BASE,INNO,IAR,737,--,ELA,3- Approached Expectations,2023-2024
+"Luckie, Brilynn",50357791,4,4,6,I201,BASE,INNO,IAR,732,--,ELA,3- Approached Expectations,2023-2024
+"Neely, Zakiah",50373496,5,5,6,I205,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Williams, Arielle, E.",50444753,5,5,6,I205,BASE,INNO,IAR,749,--,ELA,3- Approached Expectations,2023-2024
+"Johnson, Ja'leah",50558244,5,5,6,I205,BASE,INNO,IAR,747,--,ELA,3- Approached Expectations,2023-2024
+"Baker, Michael III",50327076,5,5,6,I205,BASE,INNO,IAR,735,--,ELA,3- Approached Expectations,2023-2024
+"Person, Deamiya, N.",50559423,5,5,6,I205,BASE,INNO,IAR,742,--,ELA,3- Approached Expectations,2023-2024
+"Anderson, Chloe, D.",50541535,5,5,6,I205,BASE,INNO,IAR,742,--,ELA,3- Approached Expectations,2023-2024
+"Moore, Jamyla, D.",60000089,5,5,6,I205,BASE,INNO,IAR,744,--,ELA,3- Approached Expectations,2023-2024
+"Thomas, Giavonna, D.",50394254,5,5,6,I205,BASE,INNO,IAR,747,--,ELA,3- Approached Expectations,2023-2024
+"Dorsey, Jalena, T.",50484859,5,5,6,I205,BASE,INNO,IAR,758,--,ELA,4- Met Expectations,2023-2024
+"Blissit, Q'uashon, D.",60057656,5,5,6,I205,BASE,INNO,IAR,771,--,ELA,4- Met Expectations,2023-2024
+"Van Allen, Vanillia",50445965,6,6,6,I215,BASE,INNO,IAR,686,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Tinnel, Montana",50536982,6,6,6,I215,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Watson, Darren",50470443,6,6,6,I215,BASE,INNO,IAR,678,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Hampton, Jeremiah",60072331,6,6,6,I215,BASE,INNO,IAR,668,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Person, Deamiya, N.",50559423,6,6,6,I215,BASE,INNO,IAR,686,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Marin-Garcia, Lenmary, J.",63089728,6,6,6,I215,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Marcano Alvarez, Leonardo, R.",62051406,6,6,6,I215,BASE,INNO,IAR,697,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Neely, Shakyra, C.",50556757,6,6,6,I215,BASE,INNO,IAR,719,--,ELA,2- Partially Met Expectations,2023-2024
+"Neely, Zakiah",50373496,6,6,6,I215,BASE,INNO,IAR,716,--,ELA,2- Partially Met Expectations,2023-2024
+"Bryant, Finnise, A.",50447183,6,6,6,I215,BASE,INNO,IAR,729,--,ELA,3- Approached Expectations,2023-2024
+"Moore, Jamyla, D.",60000089,6,6,6,I215,BASE,INNO,IAR,739,--,ELA,3- Approached Expectations,2023-2024
+"Johnson, Amari",50554724,6,6,6,I215,BASE,INNO,IAR,729,--,ELA,3- Approached Expectations,2023-2024
+"Anderson, Chloe, D.",50541535,6,6,6,I215,BASE,INNO,IAR,743,--,ELA,3- Approached Expectations,2023-2024
+"Jackson, Ocean",50499748,6,6,6,I215,BASE,INNO,IAR,735,--,ELA,3- Approached Expectations,2023-2024
+"Jackson, Jasmine, T.",50592011,6,6,6,I215,BASE,INNO,IAR,737,--,ELA,3- Approached Expectations,2023-2024
+"Johnson, Ja'leah",50558244,6,6,6,I215,BASE,INNO,IAR,726,--,ELA,3- Approached Expectations,2023-2024
+"Williams, Arielle, E.",50444753,6,6,6,I215,BASE,INNO,IAR,741,--,ELA,3- Approached Expectations,2023-2024
+"Bryant, Ja'Nay, V.",50550600,6,6,6,I215,BASE,INNO,IAR,748,--,ELA,3- Approached Expectations,2023-2024
+"Haynes, Somaya, L.",50318414,6,6,6,I215,BASE,INNO,IAR,755,--,ELA,4- Met Expectations,2023-2024
+"Blissit, Q'uashon, D.",60057656,6,6,6,I215,BASE,INNO,IAR,752,--,ELA,4- Met Expectations,2023-2024
+"Smith, Masiah, D.",50438638,4,4,7,I201,BASE,INNO,IAR,737,--,ELA,3- Approached Expectations,2023-2024
+"MCNEAL, KMARIYAH",50380905,4,4,7,I201,BASE,INNO,IAR,727,--,ELA,3- Approached Expectations,2023-2024
+"Oneil, Dina",50476074,5,5,7,I205,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Haddon, Aniyah, M.",50409449,5,5,7,I205,BASE,INNO,IAR,719,--,ELA,2- Partially Met Expectations,2023-2024
+"Wade, Jessica, J.",50534232,5,5,7,I205,BASE,INNO,IAR,709,--,ELA,2- Partially Met Expectations,2023-2024
+"McNeal, Smariyah",50337986,5,5,7,I205,BASE,INNO,IAR,709,--,ELA,2- Partially Met Expectations,2023-2024
+"Louis, Kenya, E.",50394482,5,5,7,I205,BASE,INNO,IAR,705,--,ELA,2- Partially Met Expectations,2023-2024
+"Sinclair, Miya",50354315,5,5,7,I205,BASE,INNO,IAR,721,--,ELA,2- Partially Met Expectations,2023-2024
+"Shavers, Kody",50474735,5,5,7,I205,BASE,INNO,IAR,719,--,ELA,2- Partially Met Expectations,2023-2024
+"Reyes, Abisai",50453904,5,5,7,I205,BASE,INNO,IAR,732,--,ELA,3- Approached Expectations,2023-2024
+"Whittmon, Lauren, G.",50392404,5,5,7,I205,BASE,INNO,IAR,740,--,ELA,3- Approached Expectations,2023-2024
+"MCNEAL, KMARIYAH",50380905,5,5,7,I205,BASE,INNO,IAR,737,--,ELA,3- Approached Expectations,2023-2024
+"Strange, Rhianna, M.",50479977,7,7,7,I212,BASE,INNO,IAR,686,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Mejias Nobrega, Enmanuel, J.",60527537,7,7,7,I212,BASE,INNO,IAR,686,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Oneil, Dina",50476074,7,7,7,I212,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Williams, Takyra, M.",50373492,7,7,7,I212,BASE,INNO,IAR,716,--,ELA,2- Partially Met Expectations,2023-2024
+"Williams, Da'varrion, J.",50323497,7,7,7,I212,BASE,INNO,IAR,704,--,ELA,2- Partially Met Expectations,2023-2024
+"FITTS, DASHAWN, J.",50551492,7,7,7,I212,BASE,INNO,IAR,716,--,ELA,2- Partially Met Expectations,2023-2024
+"Williams, Edward, L. Jr",50409823,7,7,7,I212,BASE,INNO,IAR,724,--,ELA,2- Partially Met Expectations,2023-2024
+"Steele, Na'khia, S.",60091957,7,7,7,I212,BASE,INNO,IAR,758,--,ELA,4- Met Expectations,2023-2024
+"Whittmon, Lauren, G.",50392404,7,7,7,I212,BASE,INNO,IAR,763,--,ELA,4- Met Expectations,2023-2024
+"Coleman, Erin, D.",50415203,6,6,7,I215,BASE,INNO,IAR,719,--,ELA,2- Partially Met Expectations,2023-2024
+"Kidd, Janaya, M.",50409442,6,6,7,I215,BASE,INNO,IAR,713,--,ELA,2- Partially Met Expectations,2023-2024
+"Mitchell, Kamaya",50479740,6,6,7,I215,BASE,INNO,IAR,702,--,ELA,2- Partially Met Expectations,2023-2024
+"Reyes, Abisai",50453904,6,6,7,I215,BASE,INNO,IAR,731,--,ELA,3- Approached Expectations,2023-2024
+"Steele, Na'khia, S.",60091957,6,6,7,I215,BASE,INNO,IAR,729,--,ELA,3- Approached Expectations,2023-2024
+"Hernandez, Maria, F.",62851956,7,7,7,I219,BASE,INNO,IAR,691,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Biles, Taraji, J.",50406050,7,7,7,I219,BASE,INNO,IAR,724,--,ELA,2- Partially Met Expectations,2023-2024
+"Pitchford, Corian Jr",50394484,7,7,7,I219,BASE,INNO,IAR,700,--,ELA,2- Partially Met Expectations,2023-2024
+"Kidd, Janaya, M.",50409442,7,7,7,I219,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"Louis, Kenya, E.",50394482,7,7,7,I219,BASE,INNO,IAR,722,--,ELA,2- Partially Met Expectations,2023-2024
+"White, Jovayeh",50546766,7,7,7,I219,BASE,INNO,IAR,722,--,ELA,2- Partially Met Expectations,2023-2024
+"Haddon, Aniyah, M.",50409449,7,7,7,I219,BASE,INNO,IAR,745,--,ELA,3- Approached Expectations,2023-2024
+"Smith, Masiah, D.",50438638,7,7,7,I219,BASE,INNO,IAR,754,--,ELA,4- Met Expectations,2023-2024
+"Heard, Jahar",50406774,5,5,8,I205,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Greene, Santonio, J.",50340901,5,5,8,I205,BASE,INNO,IAR,721,--,ELA,2- Partially Met Expectations,2023-2024
+"Bryant, Martise, L.",50548143,5,5,8,I205,BASE,INNO,IAR,715,--,ELA,2- Partially Met Expectations,2023-2024
+"Williams, Ke'shai, J.",50354074,5,5,8,I205,BASE,INNO,IAR,705,--,ELA,2- Partially Met Expectations,2023-2024
+"Russell, Antoinette",50545816,8,8,8,I210,BASE,INNO,IAR,650,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Greene, Santonio, J.",50340901,8,8,8,I210,BASE,INNO,IAR,653,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Caicedo-Ruiz, Hailin, Y.",62334408,8,8,8,I210,BASE,INNO,IAR,685,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Rogers, Nevari, V.",50403783,8,8,8,I210,BASE,INNO,IAR,679,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Weatherspoon IV, James, S.",50364733,8,8,8,I210,BASE,INNO,IAR,672,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Louis, Kenyonsha",50341865,8,8,8,I210,BASE,INNO,IAR,672,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Williams, Ke'shai, J.",50354074,8,8,8,I210,BASE,INNO,IAR,672,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Bryant, Martise, L.",50548143,8,8,8,I210,BASE,INNO,IAR,690,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Aponte Suarez, Yusmary Katherine, K.",60252884,8,8,8,I210,BASE,INNO,IAR,679,--,ELA,1- Did Not Yet Meet Expectations,2023-2024
+"Heard, Jahar",50406774,8,8,8,I210,BASE,INNO,IAR,710,--,ELA,2- Partially Met Expectations,2023-2024
+"Starling, Marc-Anthony, d.",50481427,8,8,8,I210,BASE,INNO,IAR,725,--,ELA,3- Approached Expectations,2023-2024
+"Bryant, Tarsheanna, S.",50413131,8,8,8,I210,BASE,INNO,IAR,725,--,ELA,3- Approached Expectations,2023-2024
+"Sykes, Khiry, S.",50463742,8,8,8,I210,BASE,INNO,IAR,731,--,ELA,3- Approached Expectations,2023-2024
+"Williams, J'Mia, A.",50351478,8,8,8,I210,BASE,INNO,IAR,731,--,ELA,3- Approached Expectations,2023-2024
+"Brito, Teresa",50394844,8,8,8,I210,BASE,INNO,IAR,750,--,ELA,4- Met Expectations,2023-2024
+"Valero-Perez, Alejandro, D.",60579006,8,8,8,I210,BASE,INNO,IAR,758,--,ELA,4- Met Expectations,2023-2024
+"Bryant, Martise, L.",50548143,7,7,8,I212,BASE,INNO,IAR,724,--,ELA,2- Partially Met Expectations,2023-2024
+"Louis, Kenyonsha",50341865,7,7,8,I212,BASE,INNO,IAR,749,--,ELA,3- Approached Expectations,2023-2024
+"Sykes, Khiry, S.",50463742,7,7,8,I212,BASE,INNO,IAR,739,--,ELA,3- Approached Expectations,2023-2024
+"Brito, Teresa",50394844,7,7,8,I212,BASE,INNO,IAR,763,--,ELA,4- Met Expectations,2023-2024
+"Cano, Annelyse",50457551,6,6,8,I215,BASE,INNO,IAR,710,--,ELA,2- Partially Met Expectations,2023-2024
+"Brito, Teresa",50394844,6,6,8,I215,BASE,INNO,IAR,752,--,ELA,4- Met Expectations,2023-2024
+"Heard, Jahar",50406774,6,6,8,I215,BASE,INNO,IAR,764,--,ELA,4- Met Expectations,2023-2024
+"Hall-Chamliss, Samir",50341790,6,6,8,I215,BASE,INNO,IAR,766,--,ELA,4- Met Expectations,2023-2024
+"Sykes, Khiry, S.",50463742,6,6,8,I215,BASE,INNO,IAR,755,--,ELA,4- Met Expectations,2023-2024
+"Rogers, Nevari, V.",50403783,7,7,8,I219,BASE,INNO,IAR,747,--,ELA,3- Approached Expectations,2023-2024
+"Cano, Annelyse",50457551,7,7,8,I219,BASE,INNO,IAR,770,--,ELA,4- Met Expectations,2023-2024
+"Weatherspoon IV, James, S.",50364733,7,7,8,I219,BASE,INNO,IAR,770,--,ELA,4- Met Expectations,2023-2024
+"Hall-Smith, Syniah, M.",50293810,8,8,9,I210,BASE,INNO,IAR,723,--,ELA,2- Partially Met Expectations,2023-2024
+"Wright, Aniya, U.",50301269,8,8,9,I210,BASE,INNO,IAR,710,--,ELA,2- Partially Met Expectations,2023-2024
+"McMillian, Jalonte, D.",50279537,8,8,9,I210,BASE,INNO,IAR,725,--,ELA,3- Approached Expectations,2023-2024
+"King, Demaria",50341777,8,8,9,I210,BASE,INNO,IAR,743,--,ELA,3- Approached Expectations,2023-2024
+"Hall-Smith, Syniah, M.",50293810,7,7,9,I212,BASE,INNO,IAR,707,--,ELA,2- Partially Met Expectations,2023-2024
+"McMillian, Jalonte, D.",50279537,7,7,9,I212,BASE,INNO,IAR,739,--,ELA,3- Approached Expectations,2023-2024
+"Wright, Aniya, U.",50301269,7,7,9,I212,BASE,INNO,IAR,739,--,ELA,3- Approached Expectations,2023-2024
+"King, Demaria",50341777,7,7,9,I219,BASE,INNO,IAR,729,--,ELA,3- Approached Expectations,2023-2024
