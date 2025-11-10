@@ -1,0 +1,16 @@
+[
+  {"name": "Student_Name", "type": "STRING", "description": "Full name of the student"},
+  {"name": "Student_ID", "type": "INTEGER", "description": "Unique student identifier"},
+  {"name": "Annual_Grade", "type": "INTEGER", "description": "Grade level for the academic year"},
+  {"name": "Test_Grade", "type": "INTEGER", "description": "Grade level at which the test was taken"},
+  {"name": "Grade_Level_Current", "type": "INTEGER", "description": "Current grade level of the student"},
+  {"name": "Current_Homeroom", "type": "STRING", "description": "Homeroom assignment (if available)"},
+  {"name": "Tested_School", "type": "STRING", "description": "Name of the school where the test was taken"},
+  {"name": "Current_School", "type": "STRING", "description": "Name of the student's current school"},
+  {"name": "Product", "type": "STRING", "description": "Name of the assessment (IAR)"},
+  {"name": "Test_Scaled_Score", "type": "INTEGER", "description": "Scaled score of the test (ranges from 650 to 850)"},
+  {"name": "Student_Growth_Percentile", "type": "STRING", "description": "Student’s growth percentile (missing values represented as `--`)"},
+  {"name": "Subject_Category", "type": "STRING", "description": "Subject of the test (Mathematics)"},
+  {"name": "Test_Primary_Result_Code", "type": "STRING", "description": "Performance level (e.g., 'Did Not Yet Meet Expectations')"},
+  {"name": "Year", "type": "STRING", "description": "Academic year when the test was taken (format: YYYY-YYYY)"}
+]
