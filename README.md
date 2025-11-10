@@ -143,7 +143,7 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 
 **Evaluation pipeline code lives in:**
 - `notebooks/Judge_LLM.ipynb`
-- `docs/Insights Matrix.xlsx - Sheet1.pdf`
+- `docs/Insights Matrix.pdf`
 
 ---
 
