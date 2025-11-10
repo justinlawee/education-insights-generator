@@ -177,7 +177,6 @@ Serves as a blueprint for AI-assisted insight generation in any domain (educatio
 Developed by:
 Justin Borenstein-Lawee
 MBA Candidate · Kellogg School of Management
-AI Systems & Product Management Track
 
 In collaboration with:
 Kellogg AI Lab (Spring 2025)
