@@ -2,8 +2,7 @@
 
 ### 🧠 Turning Educational Data Into Actionable Insights
 
-This repository contains the full **AI Insight Generation** and **Evaluation** system developed during the **Kellogg AI Lab × Innovare** collaboration.  
-It uses **LLMs, multi-agent workflows, and educational data pipelines** to automatically generate, visualize, and evaluate insights from K–12 assessment datasets.
+This repository contains the full **AI Insight Generation** and **Evaluation** system developed during the **Kellogg AI Lab × Innovare** collaboration. It uses **LLMs, multi-agent workflows, and educational data pipelines** to automatically generate, visualize, and evaluate insights from K–12 assessment datasets.
 
 ---
 
