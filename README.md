@@ -1,4 +1,4 @@
-# Innovare AI Lab – K–12 Insight Generator
+# Education Insights Generator (Kellogg AI Lab × Innovare)
 
 ### 🧠 Turning Educational Data Into Actionable Insights
 
