@@ -61,7 +61,6 @@ education-insights-generator/
 │ ├── VisGenerator.ipynb
 │ ├── innovare_dashboard.ipynb
 │ ├── Judge_LLM.ipynb - Colab.pdf
-│ └── Insights Matrix.xlsx - Sheet1.pdf
 │
 ├── data_samples/ # De-identified sample data
 │ ├── tables_descriptions.csv
@@ -78,11 +77,10 @@ education-insights-generator/
 │ ├── README_GCLOUD.md
 │ ├── README_TABLES.md
 │ ├── AI Lab Spring Final Presentation (2).pdf
-│ ├── Insights Matrix.xlsx - Sheet1.pdf
+│ ├── Insights Matrix.pdf
 │ └── innovare_n8n.json (private version omitted)
 │
 ├── requirements.txt # Dependencies (LangChain, BigQuery, Streamlit, etc.)
-├── .gitignore
 └── README.md # This file
 ```
 
