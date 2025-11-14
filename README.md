@@ -93,8 +93,7 @@ education-insights-generator/
 | **LLM Access** | Google Vertex AI · Gemini 1.5 Pro · Groq API |
 | **Data & Infra** | BigQuery · GCP SDK · n8n Automation |
 | **Evaluation** | Custom “Judge LLM” rubric system with prompt templating |
-| **Visualization** | Streamlit Dashboards · Plotly Graphs |
-| **Collaboration** | Lovable (for low-code workflow building) |
+| **Visualization** | Lovable · Plotly Graphs |
 
 ---
 
