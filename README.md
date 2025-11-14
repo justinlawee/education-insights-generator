@@ -79,7 +79,7 @@ education-insights-generator/
 │ ├── Insights Matrix.pdf
 │ └── innovare_n8n.json (private version omitted)
 │
-├── requirements.txt # Dependencies (LangChain, BigQuery, Streamlit, etc.)
+├── requirements.txt # Dependencies (LangChain, BigQuery, etc.)
 └── README.md # This file
 ```
 
