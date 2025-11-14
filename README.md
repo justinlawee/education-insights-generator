@@ -165,7 +165,6 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 ## ⭐️ Key Takeaways
 
 Built a real applied AI system connecting LLMs, data pipelines, and human evaluation loops.
-Demonstrates hands-on understanding of LLM operations, orchestration (n8n), and AI product strategy.
 Serves as a blueprint for AI-assisted insight generation in any domain (education, analytics, or enterprise data).
 
 ---
