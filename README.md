@@ -12,7 +12,7 @@ This repository contains the full **AI Insight Generation** and **Evaluation** s
 Empower educators and school leaders to interpret large-scale student performance data — turning spreadsheets into narratives and guiding questions using AI.
 
 **Solution:**  
-An end-to-end AI pipeline that connects **BigQuery**, **LangChain**, and **Streamlit**, orchestrated through a multi-agent system (n8n + Lovable).  
+An end-to-end AI pipeline that connects **BigQuery** and **LangChain**, orchestrated through a multi-agent system (n8n + Lovable).  
 The system performs:
 
 1. **Data Ingestion** – pulls K–12 assessment data (e.g., IAR Math & ELA) from BigQuery.  
