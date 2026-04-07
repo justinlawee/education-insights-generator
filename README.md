@@ -159,8 +159,8 @@ The **Judge LLM** evaluates insight quality across the following dimensions:
 
 📎 Additional Materials
 
-- 🎥 [Demo Video (YouTube)](https://youtu.be/713CubB-iXM)
-- 🧾 [Final Presentation (Google Drive)](https://drive.google.com/file/d/1KGBahx3mkoWIHvbtndkx1bl0wV25w8ij)
+- 🎥 [Final Presentation Video (Google Drive)]([(https://youtu.be/713CubB-iXM](https://drive.google.com/file/d/1q39XtNtCKwFn5JonD50SUuFRWQsc1VrX/view?usp=drive_link)](https://drive.google.com/file/d/1q39XtNtCKwFn5JonD50SUuFRWQsc1VrX/view?usp=sharing))
+- 🧾 [Final Presentation Deck (Google Drive)]((https://docs.google.com/presentation/d/11ttFPFOwARUhwq4-Re8MEGKK5cmYTfxjdXTZUDUp-IA/edit?usp=sharing))
 - ⚙️ [n8n Multi-Agent Flow (redacted JSON)](https://drive.google.com/file/d/1xUvA4_uastxhl175A02g-8PWJuA-n8Sc)
 
 ---
