@@ -82,6 +82,8 @@ education-insights-generator/
 │ └── innovare_n8n.json (private version omitted)
 │
 ├── requirements.txt # Dependencies (LangChain, BigQuery, etc.)
+├── Final Presentation Deck.pdf
+├── Final Presentation Video.mov
 └── README.md # This file
 ```
 
